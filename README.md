@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Arjun from Malappuram<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Nest.js and Next.js<br>- ⚡ In my free time I Build Backend Applications</p>
+<p align="left">I'm Arjun from Malappuram<br><br>- 🔭 I’m working as Fullstack Engineer<br>- 📚 I'm currently learning Nest.js and Next.js<br>- ⚡ In my free time I Build Backend Applications</p>
 
 ###
 
