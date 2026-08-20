@@ -69,15 +69,15 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjun7736&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun7736&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=arjun7736&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arjun7736&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arjun7736&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=arjun7736&theme=radical&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun7736&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun7736&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ---
