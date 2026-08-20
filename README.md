@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun7736&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arjun7736&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun7736&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
